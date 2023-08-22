@@ -1,7 +1,4 @@
-/**
- * @author liuchang
- * @date 2023/8/21 6:48 PM
- */
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 class LogTest {
